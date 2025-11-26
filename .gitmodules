@@ -1,3 +1,6 @@
 [submodule "2d"]
 	path = src/2d
 	url = git@github.com:pubby/2d.git
+[submodule "src/2d"]
+	path = src/2d
+	url = https://github.com/1313/pubby-2d
